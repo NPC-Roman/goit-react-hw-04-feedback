@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.statsCount {
+  margin-left: 20px;
+}
+
+.statsCount:not(:last-child) {
+  margin-bottom: 10px;
+}
